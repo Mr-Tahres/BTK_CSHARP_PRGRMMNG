@@ -1,0 +1,14 @@
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\bin\Debug\net7.0\operatör.exe
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\bin\Debug\net7.0\operatör.deps.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\bin\Debug\net7.0\operatör.runtimeconfig.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\bin\Debug\net7.0\operatör.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\bin\Debug\net7.0\operatör.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\obj\Debug\net7.0\operatör.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\obj\Debug\net7.0\operatör.AssemblyInfoInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\obj\Debug\net7.0\operatör.AssemblyInfo.cs
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\obj\Debug\net7.0\operatör.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\obj\Debug\net7.0\operatör.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\obj\Debug\net7.0\refint\operatör.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\obj\Debug\net7.0\operatör.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\obj\Debug\net7.0\operatör.genruntimeconfig.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\operatör\obj\Debug\net7.0\ref\operatör.dll

@@ -1,0 +1,14 @@
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\obj\Debug\net7.0\dosya_yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\obj\Debug\net7.0\dosya_yönetimi.AssemblyInfoInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\obj\Debug\net7.0\dosya_yönetimi.AssemblyInfo.cs
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\obj\Debug\net7.0\dosya_yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\bin\Debug\net7.0\dosya_yönetimi.exe
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\bin\Debug\net7.0\dosya_yönetimi.deps.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\bin\Debug\net7.0\dosya_yönetimi.runtimeconfig.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\bin\Debug\net7.0\dosya_yönetimi.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\bin\Debug\net7.0\dosya_yönetimi.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\obj\Debug\net7.0\dosya_yönetimi.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\obj\Debug\net7.0\refint\dosya_yönetimi.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\obj\Debug\net7.0\dosya_yönetimi.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\obj\Debug\net7.0\dosya_yönetimi.genruntimeconfig.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\dosya_yönetimi\obj\Debug\net7.0\ref\dosya_yönetimi.dll

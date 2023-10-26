@@ -1,0 +1,14 @@
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\bin\Debug\net7.0\koşullu_bloklar.exe
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\bin\Debug\net7.0\koşullu_bloklar.deps.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\bin\Debug\net7.0\koşullu_bloklar.runtimeconfig.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\bin\Debug\net7.0\koşullu_bloklar.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\bin\Debug\net7.0\koşullu_bloklar.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\obj\Debug\net7.0\koşullu_bloklar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\obj\Debug\net7.0\koşullu_bloklar.AssemblyInfoInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\obj\Debug\net7.0\koşullu_bloklar.AssemblyInfo.cs
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\obj\Debug\net7.0\koşullu_bloklar.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\obj\Debug\net7.0\koşullu_bloklar.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\obj\Debug\net7.0\refint\koşullu_bloklar.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\obj\Debug\net7.0\koşullu_bloklar.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\obj\Debug\net7.0\koşullu_bloklar.genruntimeconfig.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\koşullu_bloklar\obj\Debug\net7.0\ref\koşullu_bloklar.dll

@@ -1,0 +1,14 @@
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\bin\Debug\net7.0\döngüler.exe
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\bin\Debug\net7.0\döngüler.deps.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\bin\Debug\net7.0\döngüler.runtimeconfig.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\bin\Debug\net7.0\döngüler.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\bin\Debug\net7.0\döngüler.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\obj\Debug\net7.0\döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\obj\Debug\net7.0\döngüler.AssemblyInfoInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\obj\Debug\net7.0\döngüler.AssemblyInfo.cs
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\obj\Debug\net7.0\döngüler.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\obj\Debug\net7.0\döngüler.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\obj\Debug\net7.0\refint\döngüler.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\obj\Debug\net7.0\döngüler.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\obj\Debug\net7.0\döngüler.genruntimeconfig.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\döngüler\obj\Debug\net7.0\ref\döngüler.dll

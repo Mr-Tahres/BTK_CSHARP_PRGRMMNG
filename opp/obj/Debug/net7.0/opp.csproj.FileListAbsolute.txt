@@ -1,0 +1,18 @@
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\opp\obj\Debug\net7.0\opp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\opp\obj\Debug\net7.0\opp.AssemblyInfoInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\opp\obj\Debug\net7.0\opp.AssemblyInfo.cs
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ - UYGULAMALARI\opp\obj\Debug\net7.0\opp.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\bin\Debug\net7.0\opp.exe
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\bin\Debug\net7.0\opp.deps.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\bin\Debug\net7.0\opp.runtimeconfig.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\bin\Debug\net7.0\opp.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\bin\Debug\net7.0\opp.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\obj\Debug\net7.0\opp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\obj\Debug\net7.0\opp.AssemblyInfoInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\obj\Debug\net7.0\opp.AssemblyInfo.cs
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\obj\Debug\net7.0\opp.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\obj\Debug\net7.0\opp.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\obj\Debug\net7.0\refint\opp.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\obj\Debug\net7.0\opp.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\obj\Debug\net7.0\opp.genruntimeconfig.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ\opp\obj\Debug\net7.0\ref\opp.dll

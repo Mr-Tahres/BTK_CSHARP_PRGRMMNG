@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "koşullu_bloklar/1.0.0": {
+        "runtime": {
+          "koşullu_bloklar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "koşullu_bloklar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

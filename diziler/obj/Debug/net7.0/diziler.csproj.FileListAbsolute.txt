@@ -1,0 +1,14 @@
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\bin\Debug\net7.0\diziler.exe
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\bin\Debug\net7.0\diziler.deps.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\bin\Debug\net7.0\diziler.runtimeconfig.json
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\bin\Debug\net7.0\diziler.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\bin\Debug\net7.0\diziler.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\obj\Debug\net7.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\obj\Debug\net7.0\diziler.AssemblyInfoInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\obj\Debug\net7.0\diziler.AssemblyInfo.cs
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\obj\Debug\net7.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\obj\Debug\net7.0\diziler.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\obj\Debug\net7.0\refint\diziler.dll
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\obj\Debug\net7.0\diziler.pdb
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\obj\Debug\net7.0\diziler.genruntimeconfig.cache
+C:\Users\Serhat Meral\Desktop\ \Yazılım\BTK AKADEMİ- UYGULAMALARI\diziler\obj\Debug\net7.0\ref\diziler.dll
